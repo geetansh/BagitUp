@@ -13,7 +13,8 @@ mysql_dbname="Database Name"
 ```  
   
 ## Install
-```pip install BagitUp
+```bash
+pip install BagitUp
 ```
 
 ## Basic usage
